@@ -10,7 +10,6 @@ public class Main {
 		iPhoneX.setPrice(-2000);
 		System.out.println(iPhoneX.getPrice());
 		
-		//ВНЕС ИЗМЕНЕНИЯ ЧЕРЕЗ ГИТХАБ
 
 	}
 
